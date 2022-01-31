@@ -1,0 +1,16 @@
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\bin\Debug\net5.0\Question 6.exe
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\bin\Debug\net5.0\Question 6.deps.json
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\bin\Debug\net5.0\Question 6.runtimeconfig.json
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\bin\Debug\net5.0\Question 6.runtimeconfig.dev.json
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\bin\Debug\net5.0\Question 6.dll
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\bin\Debug\net5.0\ref\Question 6.dll
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\bin\Debug\net5.0\Question 6.pdb
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\obj\Debug\net5.0\Question 6.csproj.AssemblyReference.cache
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\obj\Debug\net5.0\Question 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\obj\Debug\net5.0\Question 6.AssemblyInfoInputs.cache
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\obj\Debug\net5.0\Question 6.AssemblyInfo.cs
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\obj\Debug\net5.0\Question 6.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\obj\Debug\net5.0\Question 6.dll
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\obj\Debug\net5.0\ref\Question 6.dll
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\obj\Debug\net5.0\Question 6.pdb
+C:\Users\USER PC\Desktop\Chapter 11 & 12\Chapter 11\Question 6\Question 6\obj\Debug\net5.0\Question 6.genruntimeconfig.cache
